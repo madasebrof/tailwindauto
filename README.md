@@ -43,7 +43,7 @@ This will:
 - read config from `tailwind.config.js`
 - read css classes from `./src/input.css`
 - parse all the types of files specified in `content`, e.g. `.html`, `.js` files, etc. looking for `tailwind` class tags
-- generate a minimize stylesheet needed to properly render all of the classes encountered, then save to `./dist/output.css`
+- generate a minimize stylesheet needed to properly render all of the classes encountered, then save to `./src/output.css`
 
 To view the generated page, run:
 
